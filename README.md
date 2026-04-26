@@ -1,4 +1,4 @@
-# Knobelscheit
+# Unit Converter
 
 Run the tests:
 
